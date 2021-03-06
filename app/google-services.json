@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "85321443095",
+    "project_id": "instagram-5631f",
+    "storage_bucket": "instagram-5631f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85321443095:android:9321be5f578a6ffc1eb952",
+        "android_client_info": {
+          "package_name": "com.ferrariapps.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85321443095-gti5v4no3chean55r2vdedc0jk90ihns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ferrariapps.instagram",
+            "certificate_hash": "f531565c9bca87802474fa5cfe2be14e9bd5f476"
+          }
+        },
+        {
+          "client_id": "85321443095-ggmu9mg3m0d46jncknqqku4mor01ojf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtUli0mUvibz77IEcj0f1d7iFzVU1lsAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85321443095-ggmu9mg3m0d46jncknqqku4mor01ojf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
